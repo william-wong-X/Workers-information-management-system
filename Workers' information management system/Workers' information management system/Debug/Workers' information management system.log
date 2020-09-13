@@ -1,0 +1,4 @@
+﻿  workerManager.cpp
+e:\程序\c++\workers' information management system\workers' information management system\workers' information management system\workermanager.cpp(510): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+e:\程序\c++\workers' information management system\workers' information management system\workers' information management system\workermanager.cpp(534): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+  Workers' information management system.vcxproj -> E:\程序\C++\workers' information management system\Workers' information management system\Debug\Workers' information management system.exe
